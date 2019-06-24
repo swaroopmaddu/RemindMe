@@ -13,7 +13,7 @@ Built with Firebase database <a href="https://console.firebase.google.com/">Goog
   * In the command terminal, run the following commands:
     ```  
      $ git clone git@github.com:swaroopmaddu/RemindMe
-     $ cd flutter-chat-app/
+     $ cd RemindMe/
      $ flutter run
     ```
   * In android studio go to File > New > Project from Version Control > Git
