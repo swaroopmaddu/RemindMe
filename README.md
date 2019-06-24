@@ -6,5 +6,5 @@ For help getting started with Flutter, view the online <a href="https://flutter.
 Built with <a href="https://console.firebase.google.com/">Google Firebase. </a>
 
   <p align="center">
-    <img src="demo/remindme.gif"/>
+    <img src="demo/remindme.gif" height="700" width="350"/>
   </p>
