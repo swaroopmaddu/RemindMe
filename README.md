@@ -1,5 +1,5 @@
 # RemindMe
-Remind Me is a simple To Do list application developed using Flutter and Google Firebase. You can add a To Do item and smiply swipe left the tesk when completed to dismiss and remove from list.
+Remind-Me is a simple To-Do list application developed using Flutter and Google Firebase. You can add a To-Do item and simply swipe left the task when completed to dismiss and remove from the list. Built with Firebase database Google Firebase. 
 
 For help getting started with Flutter, view the online <a href="https://flutter.dev/">documentation</a>.
 
